@@ -1,5 +1,7 @@
 # Panthéon Quantique - Laboratoire Virtuel
 
+https://github.com/berryberryship-debug/Pantheon-Quantique
+
 Ce dépôt contient une collection de simulations de mécanique quantique computationnelle développées en Python. Le projet explore l'évolution des systèmes ouverts (décohérence) et les protocoles de communication quantique (téléportation), avec une approche rigoureuse basée sur l'algèbre linéaire (NumPy) et la validation par tests de régression.
 
 ## 🌍 Une Architecture Multi-Environnements
