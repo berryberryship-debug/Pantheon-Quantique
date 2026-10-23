@@ -31,7 +31,6 @@ Démonstration de la limite de l'avantage quantique. Au-delà d'un certain seuil
 - NumPy (`pip install numpy`)
 
 ## 🚀 Exécution
-```bash
 ## 📊 Résultats Détaillés des Simulations
 
 ### 1. Décohérence d'un Qubit (`qubit_visuel.py`)
